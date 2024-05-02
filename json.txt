@@ -1,0 +1,416 @@
+// DSLUserwithMorethanOneContract
+[
+    {
+        "email": "yaradsl2@vodafone.com",
+        "email_verified": true,
+        "family_name": "",
+        "given_name": "",
+        "name": "yara2",
+        "phone_number_verified": false,
+        "preferred_username": "yara2",
+        "sub": "147162",
+        "userAssets": [
+            {
+                "id": "urn:vf-de-dxl-tmf:arcor:dsl:acn:000070147162",
+                "assetType": "Broadband",
+                "entityType": "product",
+                "role": "owner",
+                "entitlement": [
+                    {
+                        "action": "SubscriptionAdmin",
+                        "function": "DSLAccessSubscription"
+                    }
+                ],
+                "@type": "Product",
+                "externalIdentifier": [
+                    {
+                        "id": "1147162",
+                        "owner": "ulm",
+                        "type": "accountId"
+                    },
+                    {
+                        "id": "10010000147162",
+                        "owner": "arcor",
+                        "type": "uoi"
+                    },
+                    {
+                        "id": "000070147162",
+                        "owner": "arcor",
+                        "type": "customerNumber"
+                    }
+                ],
+                "accountCategory": "consumer",
+                "assetCategory": "individual",
+                "assetSubCategory": "consumer",
+                "characteristic": [
+                    {
+                        "name": "footPrint",
+                        "value": "arcor"
+                    },
+                    {
+                        "name": "subType",
+                        "value": "DSL"
+                    },
+                    {
+                        "name": "stack",
+                        "value": "DSL"
+                    },
+                    {
+                        "name": "isSelected",
+                        "value": "false"
+                    }
+                ],
+                "status": "activated",
+                "name": "DSL1"
+            },
+            {
+                "id": "urn:vf-de-dxl-tmf:arcor:dsl:acn:000070147163",
+                "assetType": "Broadband",
+                "entityType": "product",
+                "role": "owner",
+                "entitlement": [
+                    {
+                        "action": "SubscriptionAdmin",
+                        "function": "DSLAccessSubscription"
+                    }
+                ],
+                "@type": "Product",
+                "externalIdentifier": [
+                    {
+                        "id": "1147163",
+                        "owner": "ulm",
+                        "type": "accountId"
+                    },
+                    {
+                        "id": "10010000147163",
+                        "owner": "arcor",
+                        "type": "uoi"
+                    },
+                    {
+                        "id": "",
+                        "owner": "arcor",
+                        "type": "customerNumber"
+                    }
+                ],
+                "accountCategory": "consumer",
+                "assetCategory": "individual",
+                "assetSubCategory": "consumer",
+                "characteristic": [
+                    {
+                        "name": "footPrint",
+                        "value": "arcor"
+                    },
+                    {
+                        "name": "subType",
+                        "value": "DSL"
+                    },
+                    {
+                        "name": "stack",
+                        "value": ""
+                    },
+                    {
+                        "name": "isSelected",
+                        "value": "false"
+                    }
+                ],
+                "status": "activated",
+                "name": ""
+            },
+            {
+                "id": "urn:vf-de-dxl-tmf:arcor:dsl:acn:000070147164",
+                "assetType": "Broadband",
+                "entityType": "product",
+                "role": "owner",
+                "entitlement": [
+                    {
+                        "action": "SubscriptionAdmin",
+                        "function": "DSLAccessSubscription"
+                    }
+                ],
+                "@type": "Product",
+                "externalIdentifier": [
+                    {
+                        "id": "1147164",
+                        "owner": "ulm",
+                        "type": "accountId"
+                    },
+                    {
+                        "id": "10010000147164",
+                        "owner": "arcor",
+                        "type": "uoi"
+                    },
+                    {
+                        "id": "000070147164",
+                        "owner": "arcor",
+                        "type": "customerNumber"
+                    }
+                ],
+                "accountCategory": "consumer",
+                "assetCategory": "individual",
+                "assetSubCategory": "consumer",
+                "characteristic": [
+                    {
+                        "name": "footPrint",
+                        "value": "arcor"
+                    },
+                    {
+                        "name": "subType",
+                        "value": "DSL"
+                    },
+                    {
+                        "name": "stack",
+                        "value": "DSL"
+                    },
+                    {
+                        "name": "isSelected",
+                        "value": "false"
+                    }
+                ],
+                "status": "activated",
+                "name": "DSL3"
+            }
+        ],
+        "title": "Frau",
+        "levelOfAssurance": "WEB",
+        "lastLoginDate": "2024-02-19T12:56:43.318Z",
+        "loginErrorCount": "0",
+        "externalIdentifier": [
+            {
+                "id": "147162",
+                "owner": "ulm",
+                "type": "userId"
+            }
+        ],
+        "credentials": {
+            "id": "TwoFactorAuthentication",
+            "state": "inactive"
+        }
+    }
+]
+
+// cable 
+[
+    {
+        "email": "yaradsl2@vodafone.com",
+        "email_verified": true,
+        "family_name": "",
+        "given_name": "",
+        "name": "yara2",
+        "phone_number_verified": false,
+        "preferred_username": "yara2",
+        "sub": "147162",
+        "userAssets": [
+            {
+                "id": "urn:vf-de-dxl-tmf:arcor:dsl:acn:000070147162",
+                "assetType": "Broadband",
+                "entityType": "product",
+                "role": "owner",
+                "entitlement": [
+                    {
+                        "action": "SubscriptionAdmin",
+                        "function": "DSLAccessSubscription"
+                    }
+                ],
+                "@type": "Product",
+                "externalIdentifier": [
+                    {
+                        "id": "1147162",
+                        "owner": "ulm",
+                        "type": "accountId"
+                    },
+                    {
+                        "id": "10010000147162",
+                        "owner": "arcor",
+                        "type": "uoi"
+                    },
+                    {
+                        "id": "000070147162",
+                        "owner": "arcor",
+                        "type": "customerNumber"
+                    }
+                ],
+                "accountCategory": "consumer",
+                "assetCategory": "individual",
+                "assetSubCategory": "consumer",
+                "characteristic": [
+                    {
+                        "name": "footPrint",
+                        "value": "arcor"
+                    },
+                    {
+                        "name": "subType",
+                        "value": "DSL"
+                    },
+                    {
+                        "name": "stack",
+                        "value": "Cable"
+                    },
+                    {
+                        "name": "isSelected",
+                        "value": "false"
+                    }
+                ],
+                "status": "activated",
+                "name": "DSL1"
+            },
+            {
+                "id": "urn:vf-de-dxl-tmf:arcor:dsl:acn:000070147163",
+                "assetType": "Broadband",
+                "entityType": "product",
+                "role": "owner",
+                "entitlement": [
+                    {
+                        "action": "SubscriptionAdmin",
+                        "function": "DSLAccessSubscription"
+                    }
+                ],
+                "@type": "Product",
+                "externalIdentifier": [
+                    {
+                        "id": "1147163",
+                        "owner": "ulm",
+                        "type": "accountId"
+                    },
+                    {
+                        "id": "10010000147163",
+                        "owner": "arcor",
+                        "type": "uoi"
+                    },
+                    {
+                        "id": "",
+                        "owner": "arcor",
+                        "type": "customerNumber"
+                    }
+                ],
+                "accountCategory": "consumer",
+                "assetCategory": "individual",
+                "assetSubCategory": "consumer",
+                "characteristic": [
+                    {
+                        "name": "footPrint",
+                        "value": "arcor"
+                    },
+                    {
+                        "name": "subType",
+                        "value": "DSL"
+                    },
+                    {
+                        "name": "stack",
+                        "value": ""
+                    },
+                    {
+                        "name": "isSelected",
+                        "value": "false"
+                    }
+                ],
+                "status": "activated",
+                "name": ""
+            },
+            {
+                "id": "urn:vf-de-dxl-tmf:arcor:dsl:acn:000070147164",
+                "assetType": "Broadband",
+                "entityType": "product",
+                "role": "owner",
+                "entitlement": [
+                    {
+                        "action": "SubscriptionAdmin",
+                        "function": "DSLAccessSubscription"
+                    }
+                ],
+                "@type": "Product",
+                "externalIdentifier": [
+                    {
+                        "id": "1147164",
+                        "owner": "ulm",
+                        "type": "accountId"
+                    },
+                    {
+                        "id": "10010000147164",
+                        "owner": "arcor",
+                        "type": "uoi"
+                    },
+                    {
+                        "id": "000070147164",
+                        "owner": "arcor",
+                        "type": "customerNumber"
+                    }
+                ],
+                "accountCategory": "consumer",
+                "assetCategory": "individual",
+                "assetSubCategory": "consumer",
+                "characteristic": [
+                    {
+                        "name": "footPrint",
+                        "value": "arcor"
+                    },
+                    {
+                        "name": "subType",
+                        "value": "DSL"
+                    },
+                    {
+                        "name": "stack",
+                        "value": "DSL"
+                    },
+                    {
+                        "name": "isSelected",
+                        "value": "false"
+                    }
+                ],
+                "status": "activated",
+                "name": "DSL3"
+            }
+        ],
+        "title": "Frau",
+        "levelOfAssurance": "WEB",
+        "lastLoginDate": "2024-02-19T12:56:43.318Z",
+        "loginErrorCount": "0",
+        "externalIdentifier": [
+            {
+                "id": "147162",
+                "owner": "ulm",
+                "type": "userId"
+            }
+        ],
+        "credentials": {
+            "id": "TwoFactorAuthentication",
+            "state": "inactive"
+        }
+    }
+]
+
+// mappint
+
+FIXEDNET: {
+    fixedNetContracts: '$[*].userAssets[?(@.entityType=="product")].characteristic[?(@.name=="stack" && @.value=="DSL")]^^^',
+    urn: '$.id',
+    mboName: '$.name',
+    mboId: '$.externalIdentifier[[?(@.type=="accountId")].id',
+    subType: '$.characteristic[?(@.name=="subType")].value',
+    role: '$.entitlement[0].action',
+    access: '$.entitlement[0].function',
+    status: '$.status',
+    isActiveContract: '$.characteristic[?(@.name=="isSelected")].value',
+    acn: '$.externalIdentifier[[?(@.type=="customerNumber")].id',
+    uoi: '$.externalIdentifier[[?(@.type=="uoi")].id',
+  },
+  CABLE: {
+    cableContractsWithSubscAll: '$[*].userAssets[?(@.entityType=="product")].characteristic[?(@.name=="stack" && @.value=="Cable")]^^^.relatedAsset[?(@.entityType=="billingAccount")]',
+    JsonQuery: '$[*].userAssets[?(@.entityType=="product")].characteristic[?(@.name=="stack" && @.value=="Cable")][?typeof(@.relatedAsset)!="undefined"].relatedAsset[?(@.entityType=="billingAccount")]',
+    cableContractsWithSubsc: '$[*].userAssets[?(@.entityType=="product")].characteristic[?(@.name=="stack" && @.value=="Cable")]^^^',
+    cableContractsWithSubscBill:'$.relatedAsset[?(@.entityType=="billingAccount")]',
+    cableContractsWithoutSubsc: '$[*].userAssets[?(@.entityType=="billingAccount")].characteristic[?(@.name=="stack" && @.value=="Cable")]^^^',
+    mboId: '$.externalIdentifier[[?(@.type=="accountNumber")].id',
+    id : '$.externalIdentifier[[?(@.type=="accountNumber")].id',
+    name: '$.name',
+    isActiveContract: '$.characteristic[?(@.name=="isSelected")].value',
+    isDefaultContract: '$.characteristic[?(@.name=="isDefault")].value',
+    mintId: '$.externalIdentifier[[?(@.type=="accountId")].id',// ask here
+    ban: '$.externalIdentifier[[?(@.type=="accountNumber")].id',
+    cableSubscriptions: '$.userAssets[?(@.entityType=="product")].characteristic[?(@.name=="stack" && @.value=="Cable")]^^^',
+    subscriptions: {
+        urn: '$[*].id',
+        displayName: '$.name',
+        mboId: '$[*].externalIdentifier[[?(@.type=="customerNumber")].id',
+        type: '$.characteristic[?(@.name=="subType")].value',
+    },
+  },
