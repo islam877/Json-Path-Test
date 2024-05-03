@@ -1,1 +1,19 @@
-ss
+<input
+  [(ngModel)]="fillterValue"
+  style="min-width: 95%; min-height: 30px"
+  type="text"
+  placeholder="json path value:"
+/>
+<button (click)="filterByValue()">Apply Fillter</button>
+<hr />
+<br />
+
+<div style="width: 48%; float: left">
+  <textarea [(ngModel)]="jsonData" rows="10" cols="50"></textarea>
+</div>
+<div style="width: 50%; float: right">
+  result:
+  <br>
+  {{ fillterResult | json}}
+  <!-- <ngx-json-viewer [json]="fillterResult"></ngx-json-viewer> -->
+</div>
