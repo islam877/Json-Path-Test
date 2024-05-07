@@ -55,5 +55,7 @@ export class AppComponent implements OnInit {
       path: this.fillterValue,
       json: parsedData,
     });
+    console.log('fillterResult',this.fillterResult);
+    
   }
 }
